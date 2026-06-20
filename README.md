@@ -91,19 +91,6 @@ A complete end-to-end data analytics case study analyzing the Indian Electric Ve
 
 ---
 
-## 🎯 Evaluation Criteria
-
-| Category | Skill | Marks |
-|---|---|---|
-| Technical | Correctness of insights | 6 |
-| Technical | Research, knowledge & application | 4 |
-| Non-Technical | Insights presentation effectiveness | 6 |
-| Non-Technical | LinkedIn post effectiveness | 2 |
-| Non-Technical | Additional presentation effort | 2 |
-| | **Total** | **20** |
-
----
-
 ## 🛠 Skills Demonstrated
 
 - Data cleaning & preparation (missing values, calculated columns)
