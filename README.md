@@ -113,8 +113,7 @@ A complete end-to-end data analytics case study analyzing the Indian Electric Ve
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** [Your LinkedIn URL]
-- **Email:** [Your Email Address]
+- **Email:** Patangeharshal1738@gmail.com
 
 ---
 
